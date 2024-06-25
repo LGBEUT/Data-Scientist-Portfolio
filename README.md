@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Statistical Analysis
-Principal Component Analysis (PCA) and Correspondence Analysis (CA) are both types of statistical analyses.
+Description: Principal Component Analysis (PCA) and Correspondence Analysis (CA) are both types of statistical analyses.
 
 Code:
 
@@ -32,7 +32,7 @@ PCA with Iris Dataset: [`ACP_With_Iris_Complet_propre.ipynb`](https://github.com
 
 CA with NobelPrice Dataset: [`AFC_With_Python_Nobel.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/AFC_With_Python_Nobel.ipynb)
 
-Inter-variable analysis
+Description: Variable analysis
 
 Code: 
 
