@@ -28,7 +28,7 @@ Principal Component Analysis (PCA) and Correspondence Analysis (CA) are both typ
 Code:
 PCA with Iris Dataset: [`ACP_With_Iris_Complet_propre.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/ACP_With_Iris_Complet_propre.ipynb)
 
-PCA with Food Nutrition Dataset: [`ACP_With_Iris_Complet_propre.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/ACP_With_Iris_Complet_propre.ipynb)
+CA with NobelPrice Dataset: [`AFC_With_Python_Nobel.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/AFC_With_Python_Nobel.ipynb)
 
 Inter-variable analysis
 Code: 
