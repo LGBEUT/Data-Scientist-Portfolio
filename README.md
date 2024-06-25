@@ -6,19 +6,19 @@ During my final year at university, driven by curiosity, I began to acquire know
 
 In my free time, I enjoy exploring new machine learning and deep learning algorithms, data analysis tools, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data and machine learning to solve complex problems.
 
-My CV in pdf. (https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_EDA.ipynb)
+My CV in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_loris_GELIN_2024_Data_Scientist.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [À propos](#à-propos)
 - [Portfolio Projets](#Portfolio-Projets)
-  - - [Statistical Analysis](#Statistical-Analysi)
-  - - [Covid 19 Data Explorations](#Covid-19-Data-Explorations)
-  - - [Use of deep learning models](#Use-of-deep-learning-models)
-    - - - [DNN model](#DNN-model)
-    - - - [CNN model](#CNN-model)
-    - - - [GNN model](#GNN-model)
+  -  [Statistical Analysis](#Statistical-Analysi)
+  -  [Covid 19 Data Explorations](#Covid-19-Data-Explorations)
+  -  [Use of deep learning models](#Use-of-deep-learning-models)
+    - -  [DNN model](#DNN-model)
+    - -  [CNN model](#CNN-model)
+    - -  [GNN model](#GNN-model)
 
 ## Portfolio Projets
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -27,11 +27,13 @@ In this section I will list data analytics projects briefly describing the techn
 Principal Component Analysis (PCA) and Correspondence Analysis (CA) are both types of statistical analyses.
 Code:
 PCA with Iris Dataset: [`ACP_With_Iris_Complet_propre.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/ACP_With_Iris_Complet_propre.ipynb)
+
 PCA with Food Nutrition Dataset: [`ACP_With_Iris_Complet_propre.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/ACP_With_Iris_Complet_propre.ipynb)
 
 Inter-variable analysis
 Code: 
 normalite_analyse: [`Analyse_Normalite.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Analyse_Normalite.ipynb)
+
 Bivariate analysis: [`Analyse_bivarie_et_tests.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Analyses_bivarie_et_tests.ipynb)
 
 Skills: Statistics, distribution,  data cleaning, data analysis, hypothesis testing, data visualization,
@@ -41,7 +43,9 @@ Technology: Python, Pandas, Matplotlib, Seaborn.
 ## Covid 19 Data Exploration
 Code:
 EDA: [`Covid19_EDA.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_EDA.ipynb)
+
 Preprocessing:[`Covid19_Preprocessing.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_Preprocessing.ipynb)
+
 Machine Learning algorithms: [`Covid19_Machine_learning_model.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_Machine_learning_model.ipynb.ipynb)
 
 Description: The dataset contains records of Covid-19 cases, deaths, vaccine, etc.. This project includes the following steps: EDA (exploratory data analysis), Pre-processing, machine learning algorithms.
