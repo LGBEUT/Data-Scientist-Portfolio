@@ -25,13 +25,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Statistical Analysis
 Principal Component Analysis (PCA) and Correspondence Analysis (CA) are both types of statistical analyses.
+
 Code:
+
 PCA with Iris Dataset: [`ACP_With_Iris_Complet_propre.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/ACP_With_Iris_Complet_propre.ipynb)
 
 CA with NobelPrice Dataset: [`AFC_With_Python_Nobel.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/AFC_With_Python_Nobel.ipynb)
 
 Inter-variable analysis
+
 Code: 
+
 normalite_analyse: [`Analyse_Normalite.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Analyse_Normalite.ipynb)
 
 Bivariate analysis: [`Analyse_bivarie_et_tests.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Analyses_bivarie_et_tests.ipynb)
@@ -42,6 +46,7 @@ Technology: Python, Pandas, Matplotlib, Seaborn.
 
 ## Covid 19 Data Exploration
 Code:
+
 EDA: [`Covid19_EDA.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_EDA.ipynb)
 
 Preprocessing:[`Covid19_Preprocessing.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_Preprocessing.ipynb)
