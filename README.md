@@ -6,13 +6,19 @@ During my final year at university, driven by curiosity, I began to acquire know
 
 In my free time, I enjoy exploring new machine learning and deep learning algorithms, data analysis tools, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data and machine learning to solve complex problems.
 
-My CV in pdf.
+My CV in pdf. (https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_EDA.ipynb)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [À propos](#à-propos)
-- [Projets de Portfolio](#Portfolio-Projets)
+- [Portfolio Projets](#Portfolio-Projets)
+  - - [Statistical Analysis](#Statistical-Analysi)
+  - - [Covid 19 Data Explorations](#Covid-19-Data-Explorations)
+  - - [Use of deep learning models](#Use-of-deep-learning-models)
+    - - - [DNN model](#DNN-model)
+    - - - [CNN model](#CNN-model)
+    - - - [GNN model](#GNN-model)
 
 ## Portfolio Projets
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
