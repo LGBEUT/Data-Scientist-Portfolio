@@ -55,7 +55,7 @@ EDA: [`Covid19_EDA.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main
 
 Preprocessing:[`Covid19_Preprocessing.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_Preprocessing.ipynb)
 
-Machine Learning algorithms: [`Covid19_Machine_learning_model.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_Machine_learning_model.ipynb.ipynb)
+Machine Learning algorithms: [`Covid19_Machine_learning_model.ipynb`](https://github.com/LGBEUT/PortfolioProjects/blob/main/Covid19_Machine_learning_model.ipynb)
 
 Description: The dataset contains records of Covid-19 cases, deaths, vaccine, etc.. This project includes the following steps: EDA (exploratory data analysis), Pre-processing, machine learning algorithms.
 
