@@ -8,9 +8,11 @@ In my free time, I enjoy exploring new machine learning and deep learning algori
 
 My CV : 
 
-Data-Scientist/ML in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_Loris_GELIN_Data_Scientist_En.pdf).
+Data-Scientist/ML in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_Loris_GELIN_Data_Scientist_2024.pdf).
 
-IA Chemistry/Drug Discovery in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/RESUME_Loris_GELIN_IA_Chemistry.pdf).
+IA Chemistry/Drug Discovery in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_Loris_GELIN_IA_Chemistry_2024.pdf).
+
+Chemistry in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_Loris_GELIN_Chimiste_2024.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
