@@ -12,7 +12,7 @@ In my free time, I enjoy exploring new machine learning and deep learning algori
 - [Portfolio Projets](#Portfolio-Projets)
   -  [Statistical Analysis](#Statistical-Analysi)
   -  [Covid 19 Data Explorations](#Covid-19-Data-Explorations)
-  -  [Condensation Reaction_Yield Prediction](#Condensation-Reaction-Yield Prediction)
+  -  [Condensation Reaction : Yield Prediction](#Condensation-Reaction-Yield-Prediction)
   -  [Use of deep learning models](#Use-of-deep-learning-models)
     - -  [DNN model](#DNN-model)
     - -  [CNN model](#CNN-model)
@@ -59,7 +59,7 @@ Skills: data cleaning, data analysis, hypothesis testing, data visualization, ma
 
 Technology: Python, Pandas, Matplotlib, Seaborn, Scikit_learn.
 
-## Condensation-Reaction : Yield Prediction 
+## Condensation-Reaction-Yield Prediction 
 Code:
 
 Using  Molecular Chemical Language Model Embedding : [`Yield Prediction using Molecular Chemical Language Model Embedding_ Condensation_reactions.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20Molecular%20Chemical%20Language%20Model%20Embedding_%20Condensation_reactions.ipynb)
