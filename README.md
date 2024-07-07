@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projets](#Portfolio-Projets)
   -  [Statistical Analysis](#Statistical-Analysi)
   -  [Covid 19 Data Explorations](#Covid-19-Data-Explorations)
-  -  [Condensation-Reaction : Yield Prediction ](#Condensation-Reaction : Yield Prediction )
+  -  [Condensation Reaction_Yield Prediction ](#Condensation-Reaction : Yield Prediction )
   -  [Use of deep learning models](#Use-of-deep-learning-models)
     - -  [DNN model](#DNN-model)
     - -  [CNN model](#CNN-model)
