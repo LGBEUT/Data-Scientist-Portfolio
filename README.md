@@ -1,4 +1,4 @@
-# Data-Scientist-Portfolio
+# Data-Scientist-Analyst-Portfolio
 ## À propos
 Hi, I'm Loris! I have a background in chemistry and a solid foundation in data science, including machine learning and deep learning algorithms. I have developed a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
@@ -66,6 +66,32 @@ Data Source: Excel file
 Skills: data cleaning, data analysis, hypothesis testing, data visualization, machine learning algorithms
 
 Technology: Python, Pandas, Matplotlib, Seaborn, Scikit_learn.
+
+## Condensation-Reaction : Yield Prediction 
+Code:
+
+Using  Molecular Chemical Language Model Embedding : [`Yield Prediction using Molecular Chemical Language Model Embedding_ Condensation_reactions.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20Molecular%20Chemical%20Language%20Model%20Embedding_%20Condensation_reactions.ipynb)
+
+Using Molecular Descriptors_All_ Condensation_reactionsPreprocessing:[`Yield Prediction using Molecular Descriptors_All_ Condensation_reactions_.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20Molecular%20Descriptors_All_%20Condensation_reactions_.ipynb)
+
+Using Descriptors RDkit: [`Yield Prediction using Molecular Descriptors_GetAvailableProperties_ Condensation_reactions.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20Molecular%20Descriptors_GetAvailableProperties_%20Condensation_reactions.ipynb)
+
+Using  Fingerprint_Morgan: [`Yield Prediction using Molecular Fingerprints_Morgan_2048_Condensation_reactions.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20Molecular%20Fingerprints_Morgan_2048_Condensation_reactions.ipynb)
+
+Using  Fingerprint_MACCS: [`Yield Prediction using Molecular Fingerprints_MACCS Key_Condensation_reactions.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20Molecular%20Fingerprints_MACCS%20Key_Condensation_reactions.ipynb)
+
+Using  Molecular Mol2Vec Embeddings: [`Yield Prediction using Molecular Mol2Vec Embeddings_Condensation_reactions.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20Molecular%20Mol2Vec%20Embeddings_Condensation_reactions.ipynb)
+
+Using  DRFP Fingerprint: [`Yield Prediction using RDkit fingerprint (DRFP) datat_set_condensation_reaction.ipynb`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/Yield%20Prediction%20using%20RDkit%20fingerprint%20(DRFP)%20datat_set_condensation_reaction.ipynb)
+
+
+Description: Read Me [`README.md`](https://github.com/LGBEUT/Condensation_Reaction_Yield_Prediction/blob/main/README.md)
+
+Data Source: Excel file
+
+Skills: data cleaning, data analysis, hypothesis testing, data visualization, machine learning algorithms
+
+Technology: Python, Pandas, Matplotlib, Seaborn, Scikit_learn, Rdkit
 
 ## Use of deep learning models 
 
