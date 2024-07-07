@@ -6,23 +6,13 @@ During my final year at university, driven by curiosity, I began to acquire know
 
 In my free time, I enjoy exploring new machine learning and deep learning algorithms, data analysis tools, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data and machine learning to solve complex problems.
 
-My CV : 
-Data_Analyst/Ml in 
-
-Data-Scientist/ML in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_Loris_GELIN_Data_Scientist_2024.pdf).
-
-IA Chemistry/Drug Discovery in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_Loris_GELIN_IA_Chemistry_2024.pdf).
-
-Chemistry in [pdf](https://github.com/LGBEUT/Data-Scientist-Portfolio/blob/main/Resume_Loris_GELIN_Chimiste_2024.pdf).
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [À propos](#à-propos)
 - [Portfolio Projets](#Portfolio-Projets)
   -  [Statistical Analysis](#Statistical-Analysi)
   -  [Covid 19 Data Explorations](#Covid-19-Data-Explorations)
-  -  [Condensation Reaction_Yield Prediction ](#Condensation-Reaction : Yield Prediction )
+  -  [Condensation Reaction_Yield Prediction](#Condensation-Reaction-Yield Prediction)
   -  [Use of deep learning models](#Use-of-deep-learning-models)
     - -  [DNN model](#DNN-model)
     - -  [CNN model](#CNN-model)
